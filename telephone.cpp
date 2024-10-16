@@ -52,7 +52,7 @@ public:
                     }
                     else
                     {
-                        cout << "The give contact is already present\n";
+                        cout << "The given contact is already present\n";
                     }
                 }
                 else
